@@ -2,9 +2,9 @@ const Discord = require('discord.js');
 
 const client = new Discord.Client();
 
-const PREFIX = '=';
+const PREFIX = 'n!';
 
-var version = '1.0.2.1';
+var version = '1.0.0';
 
  
 
